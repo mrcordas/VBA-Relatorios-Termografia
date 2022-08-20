@@ -1,0 +1,26 @@
+Estrutura:
+
+\IR\CT01
+\IR\CT02
+    .
+    .
+\Tratadas\CT01
+\Tratadas\CT02
+    .
+    .
+
+\AquivoTemplate.docx
+\AquivoGrafico.xlsx
+
+
+Nome dos arquivos dentro de cada pasta CT
+CONE_LA_ENCOSTA.JPG	
+CILINDRO_ENCOSTA.JPG	
+CONE_LL_ENCOSTA.JPG
+CONE_LA_RIO.JPG
+CILINDRO_ENCOSTA.JPG
+CONE_LL_RIO.JPG	
+CALOTA_LA.JPG
+CALOTA_LL.JPG
+TETO_LA.JPG
+TETO_LL.JPG

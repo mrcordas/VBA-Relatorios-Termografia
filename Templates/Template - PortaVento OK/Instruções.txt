@@ -1,0 +1,32 @@
+
+Guarde as imagens termicas originais em um lugar seguro que não seja nessa pasta
+
+não delete nenhum desses arquivos e pastas e estrutura desses template
+
+
+1º passo 
+Crie uma pasta chamada "IR" e dentro da mesma crie outras pasta para cada anel, com os seguintes nomes exatos:
+"Anel04", "Anel06", "Anel08", "Anel09", "Anel10", "Anel11", "Anel13"
+
+
+2º passo
+Dentro da pasta de cada anel copie as imagens termicas originais(sem nenhuma modificação) para respectivas pastas e renomeado
+cada imagem para seu repectivo staves. 
+Ex: st01,st03, st05, etc....
+obs.: faça isso com todas imagens nescessárias 
+
+3º passo 
+Crie uma pasta chamada "Tratadas" e dentro da mesma crie outras pastas para cada anel, com os seguintes nomes exatos:
+"Anel04", "Anel06", "Anel08", "Anel09", "Anel10", "Anel11", "Anel13"
+
+4º passo
+trate todas imagens renomeando as mesmas para os respectivos nomes dos staves e colocando-as nas pastas em "Tratadas" também como no passo anterior:
+Ex: st01,st02, st03 etc...
+obs.: faça isso com todas imagens nescessárias 
+
+5º passo
+faça o grafico normalmente nas planilhas do excel
+
+6º passo
+pra cada anel copia somente linha com as temperaturas (lógicamente da data do relatorio em questão) e coloque nos arquivos "tempAnel04", "tempAnel06", etc.., 
+obs.: copie e cole de cada grafico todas temperaturas de uma vez só de modo que fiquem separadas com "tab" 

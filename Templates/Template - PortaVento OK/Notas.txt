@@ -1,0 +1,2 @@
+1-criar função pra renomear todas imagens pelo VBA, por enquanto usando .bat, certifique -se das imagens ficar na ordem 
+correta antes de iniciar o relatório 
